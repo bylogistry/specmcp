@@ -61,3 +61,7 @@ To report a security vulnerability, email security@specmcp.com. Please do not op
 - **Imprint:** https://specmcp.com/imprint
 
 SpecMCP is an independent product and is not affiliated with, endorsed by, or sponsored by gematik GmbH. Names such as "gematik" and "Telematikinfrastruktur" are used only to describe the publicly published specifications SpecMCP provides access to.
+
+## License
+
+The connector package in this repository (the plugin manifests, `mcp.json`, this README, and the logo) is released under the [MIT License](./LICENSE). The MIT license covers this package only. SpecMCP itself is a hosted service; the server and its data are proprietary and are not covered by this license.
