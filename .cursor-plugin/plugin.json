@@ -1,0 +1,21 @@
+{
+  "name": "specmcp",
+  "displayName": "SpecMCP",
+  "version": "1.0.0",
+  "description": "SpecMCP gives AI assistants live access to gematik's Telematikinfrastruktur (TI) specifications and certification requirements.",
+  "author": {
+    "name": "Aron-Frederic Seiffert und Markus Ehret GbR",
+    "email": "support@specmcp.com"
+  },
+  "keywords": [
+    "gematik",
+    "telematikinfrastruktur",
+    "ti",
+    "healthcare",
+    "compliance",
+    "certification",
+    "zulassung",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
