@@ -12,6 +12,8 @@ Built for the teams that build and certify TI products: manufacturers, Zulassung
 
 > This repository is the public home for the hosted SpecMCP server. SpecMCP is a hosted service; the server source is not distributed here.
 
+This repo is also a conformant [Agent Plugin](https://agent-plugins.org): `plugin.json` and `mcp.json` declare the hosted Streamable HTTP server so compatible clients (Cursor, and others implementing the standard) can discover and install it. Authentication is OAuth 2.0, handled per-user by the client; no credentials are stored in the package.
+
 ## Connect
 
 SpecMCP is a remote MCP server secured with OAuth 2.0. You need a [SpecMCP account](https://app.specmcp.com) and an active plan. On first connect, your client runs the OAuth sign-in automatically.

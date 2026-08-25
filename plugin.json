@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "specmcp",
+  "version": "1.0.0",
+  "description": "SpecMCP gives AI assistants live access to gematik's Telematikinfrastruktur (TI) specifications and certification requirements.",
+  "author": {
+    "name": "Aron-Frederic Seiffert und Markus Ehret GbR",
+    "url": "https://specmcp.com"
+  },
+  "homepage": "https://docs.specmcp.com",
+  "repository": "https://github.com/bylogistry/specmcp",
+  "keywords": [
+    "gematik",
+    "telematikinfrastruktur",
+    "ti",
+    "mcp",
+    "healthcare",
+    "compliance",
+    "certification",
+    "zulassung"
+  ]
+}
