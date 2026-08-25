@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.bylogistry/specmcp",
-  "description": "SpecMCP gives AI assistants live access to gematik's Telematikinfrastruktur (TI) specifications and certification requirements.",
+  "description": "Live access to gematik Telematikinfrastruktur (TI) specs and certification requirements.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/bylogistry/specmcp",
